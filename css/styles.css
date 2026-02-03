@@ -1370,7 +1370,6 @@ span i {
   }
 }
 
-/* Infinite Scrolling Text Section */
 .scrolling-text-section {
   background: linear-gradient(90deg, #316dff 0%, #00b6ff 100%);
   padding: 20px 0;
@@ -1539,7 +1538,7 @@ span i {
   box-shadow: 0 8px 20px rgba(49, 109, 255, 0.3);
 }
 
-/* CTA Banner */
+
 .cta-banner {
   background: linear-gradient(90deg, #316dff 0%, #00b6ff 100%);
   border-radius: 12px;
